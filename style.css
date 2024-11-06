@@ -1,0 +1,53 @@
+section{border: 3px solid gold;
+    margin: 30px;
+    padding: 20px;
+    background-color: burlywood;
+}
+
+    .title{text-align:center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+font: 30px;
+}
+
+
+.img-container{width: 100px;
+height: 100px;
+image-resolution: 100%;
+}
+
+
+.para{font-size: 30px;
+color: blanchedalmond;}
+
+.button{color: aquamarine;
+border: none;
+width: 200px;
+border-radius: 20px;
+background-color: black;
+height: 30px;
+font-size: medium;}
+.boy{
+    background-color: blue;
+}
+.hero{background-color: blueviolet;}
+
+nav{background-color: violet;
+}
+
+nav ul li{color: red;
+font-size: 30px;
+display: inline-block;
+padding: 0px 10px;}
+
+nav ul li:hover
+{background-color: aquamarine;
+color: red;
+padding:0px;
+cursor: pointer;}
+
+.btn{color: brown;
+border: 5px;
+background-color: black;
+padding: 5px 5px;
+border-radius: 7px;} 
